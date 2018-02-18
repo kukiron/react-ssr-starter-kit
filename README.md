@@ -1,5 +1,7 @@
 # React SSR Starter-kit
 
+[![Build Status](https://travis-ci.org/kukiron/react-ssr-starter-kit.svg?branch=master)](https://travis-ci.org/kukiron/react-ssr-starter-kit)
+
 Boilerplate for starting server-side rendering with React. Covered routing, redux, and authentication for server-side rendred react app.
 
 ## Usage
